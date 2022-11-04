@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cc14d99e2ee3/static/css/main.c19f293a.css",
-    "main.js": "/cc14d99e2ee3/static/js/main.c2b90379.js",
+    "main.js": "/cc14d99e2ee3/static/js/main.cf785b96.js",
     "static/js/787.80c8fb86.chunk.js": "/cc14d99e2ee3/static/js/787.80c8fb86.chunk.js",
     "static/media/StarMap.png": "/cc14d99e2ee3/static/media/StarMap.4be5e2a631fb159b05ea.png",
     "static/media/01-Kullaberg.jpg": "/cc14d99e2ee3/static/media/01-Kullaberg.96c66470e383ad29501c.jpg",
@@ -42,11 +42,11 @@
     "static/media/Wall-Drawing-Random-1.png": "/cc14d99e2ee3/static/media/Wall-Drawing-Random-1.fe9d3d9d6561d16a8579.png",
     "index.html": "/cc14d99e2ee3/index.html",
     "main.c19f293a.css.map": "/cc14d99e2ee3/static/css/main.c19f293a.css.map",
-    "main.c2b90379.js.map": "/cc14d99e2ee3/static/js/main.c2b90379.js.map",
+    "main.cf785b96.js.map": "/cc14d99e2ee3/static/js/main.cf785b96.js.map",
     "787.80c8fb86.chunk.js.map": "/cc14d99e2ee3/static/js/787.80c8fb86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c19f293a.css",
-    "static/js/main.c2b90379.js"
+    "static/js/main.cf785b96.js"
   ]
 }
